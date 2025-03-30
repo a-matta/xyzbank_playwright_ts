@@ -1,0 +1,16 @@
+{
+  "name": "nordhealth_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sr": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}
